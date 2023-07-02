@@ -1,4 +1,4 @@
-const convertCase = require('./index.js');
+const convertCase = require('epic-case-converter');
 
 
 // CONVERSION TESTS:

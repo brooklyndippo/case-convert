@@ -1,6 +1,6 @@
 {
-  "name": "case-convert",
-  "version": "1.0.0",
+  "name": "epic-case-converter",
+  "version": "1.0.1",
   "description": "Convert variable names in your code across different programming languages.",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "epic-case-converter": "^1.0.1"
+  }
 }
